@@ -2,6 +2,6 @@ Command line warriors hackathon!!!
 
 Go to the link down below and find the flag at the end.
 
-https://quark04.github.io/Hackathon-CTF/
+https://quark04.github.io/Hackathon-CTF/index.html
 
-https://media.discordapp.net/attachments/998532746911694928/1001640028751011840/logo.png?width=478&height=478
+![logo (1)](https://user-images.githubusercontent.com/109768663/181133126-aec3a631-c5f2-473f-8cbb-db2d1e3f26c9.png)
